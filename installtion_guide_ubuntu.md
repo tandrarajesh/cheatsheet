@@ -12,8 +12,8 @@ for more details - https://tecadmin.net/install-oracle-java-11-on-ubuntu-16-04-x
 
 ## JAVA 11 installation in ubuntu 18.04
 - sudo apt update
-Execute the following command to install the default Java Runtime Environment (JRE), which will install the JRE from OpenJDK 11:
-- sudo apt install default-jre
+  Execute the following command to install the default Java Runtime Environment (JRE), which will install the JRE from OpenJDK 11:
+- sudo apt install default-jre -y
 - java -version
  
  for more details https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
